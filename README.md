@@ -7,5 +7,5 @@ I'm currently learning to be a full stack web developer. My favourite programmin
 
 Here are my Github stats :
 
-[![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkagarwal6101&show_icons=true&theme=tokyonight)](https://github.com/kanishkagarwal6101/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkagarwal6101&show_icons=true&theme=tokyonight)](https://github.com/kanishkagarwal6101/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=kanishkagarwal6101&show_icons=true&theme=tokyonight)](https://github.com/kanishkagarwal6101/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkagarwal6101&show_icons=true&theme=tokyonight)](https://github.com/kanishkagarwal6101/github-readme-stats">
