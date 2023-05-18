@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kanishk Agarwal from India.
 
-I'm currently learning to be a full stack web developer. My favourite programming languages include javascript and python. I am going to work on some amazing projects and post them here.
+I am a front end developer working with React.js.
 
 
 Here are my Github stats :
