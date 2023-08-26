@@ -1,6 +1,6 @@
-### Hi there 👋 I am Kanishk Agarwal from India.
+### Hi there 👋 I am Kanishk Agarwal.
 
-I am a front end developer working with React.js.
+I am a graduate computer science student at Purdue. Passionate about building and fixing things and into web development :).
 
 
 
