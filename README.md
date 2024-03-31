@@ -1,3 +1,6 @@
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 # 💫 About Me:
 Hi I am Kanishk. I am a graduate student at Purdue majoring in Computer Science.<br>As a student I know learning never stops and that is my endeavor to never stop learning and keep producing work that I respect.<br>I am a result driven software developer with experience in Frontend frameworks like Reactjs and Vuejs; Backend Frameworks like Expressjs and Flask.<br>Proficient in JavaScript and Python. I am willing to learn everyday and advance my career in tech.
 
